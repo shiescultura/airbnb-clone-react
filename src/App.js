@@ -1,7 +1,8 @@
 // import logo from './logo.svg';
 import './App.css';
 import Home from './Home';
-import Header from './Header';;
+import Header from './Header';
+import Footer from './Footer';
 
 function App() {
   return (
@@ -10,6 +11,8 @@ function App() {
       {/* <h1> let's build airbnb clone</h1> */}
       <Header />
       <Home />
+      <Footer />
+
       {/* Home */}
           {/* Header */}
 
