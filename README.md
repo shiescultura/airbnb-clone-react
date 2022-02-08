@@ -1,2 +1,2 @@
 # airbnb-clone-react
-Creating airbnb clone using ReactJs
+Create airbnb clone using ReactJs
