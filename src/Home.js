@@ -6,8 +6,12 @@ function Home() {
   return (
     <div>
       <div className='home'>
-        {/* <h1>Home Component</h1> */}
         <Banner />
+        {/* <div className='home__section'>
+          <Card />
+          <Card />
+          <Card />
+        </div> */}
       </div>
     </div>
   )
